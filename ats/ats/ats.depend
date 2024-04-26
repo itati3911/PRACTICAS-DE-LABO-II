@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1714000700 source:c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\ats\ats\main.cpp
+	<iostream>
+	"ats.h"
+
+1713917670 c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\ats\ats\ats.h
+
+1713969185 source:c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\ats\ats\ats.cpp
+	<iostream>
+	"ats.h"
+
+1713996224 source:c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\ats\ats\prueba ats extra.cpp
+	<iostream>
+

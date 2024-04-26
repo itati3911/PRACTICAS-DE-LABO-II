@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713739889 source:c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\examen_con_set_y_get\examen_con_set_y_get.cpp
+	<iostream>
+	<cstring>
+	"examen_con_set_y_get.h"
+
+1713739889 c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\examen_con_set_y_get\examen_con_set_y_get.h
+
+1713738321 source:c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\examen_con_set_y_get\main.cpp
+	<iostream>
+	"examen_con_set_y_get.h"
+

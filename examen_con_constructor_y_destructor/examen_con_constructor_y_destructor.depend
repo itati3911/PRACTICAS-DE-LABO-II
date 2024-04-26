@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713748467 source:c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\examen_con_constructor_y_destructor\examen_constructor.cpp
+	<iostream>
+	<cstring>
+	"examen_constructor.h"
+
+1713748334 c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\examen_con_constructor_y_destructor\examen_constructor.h
+
+1713748557 source:c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\examen_con_constructor_y_destructor\main.cpp
+	<iostream>
+	"examen_constructor.h"
+

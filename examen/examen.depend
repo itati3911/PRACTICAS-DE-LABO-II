@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1713706529 source:c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\examen\main.cpp
+	<iostream>
+	"examen.h"
+
+1713706529 c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\examen\examen.h
+
+1713706796 source:c:\users\itati\desktop\tup 1a 2doc\laboii\pruebas\examen\examen.cpp
+	<iostream>
+	"examen.h"
+
