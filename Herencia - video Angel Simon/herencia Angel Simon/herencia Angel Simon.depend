@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1714595256 source:c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\alumno.cpp
+	<iostream>
+	"alumno.h"
+
+1714595135 c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\alumno.h
+	"persona.h"
+
+1714595256 source:c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\director.cpp
+	<iostream>
+	"director.h"
+
+1714592504 c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\director.h
+	"empleado.h"
+
+1714595459 source:c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\empleado.cpp
+	<iostream>
+	"empleado.h"
+
+1714591379 c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\empleado.h
+	"persona.h"
+
+1714587282 source:c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\herenciaangel.cpp
+	<iostream>
+
+1714595872 source:c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\main.cpp
+	<iostream>
+	<cstdlib>
+	"persona.h"
+	"empleado.h"
+	"director.h"
+	"profesor.h"
+	"alumno.h"
+
+1714590027 c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\persona.h
+
+1714595081 c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\profesor.h
+	"empleado.h"
+
+1714595459 source:c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\profesor.cpp
+	<iostream>
+	"profesor.h"
+
+1714595256 source:c:\users\itati\desktop\atup 1a 2doc\laboii\pruebas\herencia - video angel simon\herencia angel simon\persona.cpp
+	<iostream>
+	"persona.h"
+
